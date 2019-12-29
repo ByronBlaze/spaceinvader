@@ -1,3 +1,3 @@
 Space Invader
 
-A classic space invader game ccreated using pygame library for python 3.7
+A classic space invader game created using pygame library for python 3.7
